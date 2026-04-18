@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Student Registration App</string>
+    <string name="title_registration">Student Registration</string>
+    <string name="title_summary">Registration Details</string>
+    
+    <string name="label_name">STUDENT NAME</string>
+    <string name="hint_name">Enter full name</string>
+    
+    <string name="label_email">EMAIL ADDRESS</string>
+    <string name="hint_email">university@example.edu</string>
+    
+    <string name="label_course">COURSE</string>
+    <string name="hint_course">Select a program</string>
+    
+    <string name="label_year">YEAR LEVEL</string>
+    <string name="hint_year">Select year</string>
+    
+    <string name="label_gender">GENDER</string>
+    
+    <string name="btn_submit">Complete Registration →</string>
+    <string name="btn_confirm">Confirm Submission</string>
+    <string name="btn_edit">Edit Details</string>
+    
+    <string name="footer_text">By registering, you agree to the institution\'s terms and academic policies.</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#18181B</color>
+    <color name="surface_stroke">#27272A</color>
+    
+    <color name="text_primary">#F4F4F5</color>
+    <color name="text_secondary">#A1A1AA</color>
+    <color name="text_hint">#52525B</color>
+    
+    <color name="button_bg">#FFFFFF</color>
+    <color name="button_text">#000000</color>
+    <color name="button_bg_secondary">#27272A</color>
+</resources>
